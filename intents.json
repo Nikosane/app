@@ -1,0 +1,155 @@
+{
+  "intents":[
+    {
+      "tag":"greetings",
+      "patterns": [
+        "hi","hey","hello","hii","Good Morning", "Hello!",
+        "Hi there!",
+        "Hey!",
+        "Good day!",
+        "How are you?",
+        "What's up?",
+        "Greetings!",
+        "Good morning!",
+        "Good afternoon!",
+        "Good evening!",
+        "Hi, chatbot!",
+        "Hey, how's it going?",
+        "Yo!",
+        "Hi, can you help me?",
+        "Hello, I have a question.",
+        "Hi, I need assistance.",
+        "Is anyone there?",
+        "Hi, what's your name?",
+        "Hello, chatbot, introduce yourself.",
+        "Good to see you!",
+        "Hi, I'm new here.",
+        "Hey, I need some information.",
+        "Hello, can we chat?",
+        "Hi, are you a robot?",
+        "Greetings, bot!",
+        "Hello, are you there?",
+        "Hi, I'd like to talk.",
+        "Hey, I have a problem.",
+        "Hello, can you assist me?"],
+        "responses":[
+          "hey!","hello there!","hi there!","how can i help you?"]
+      },
+
+
+
+
+
+      {
+        "tag":"goodbye",
+        "patterns":[
+          "goodbye","bye","See you later","thank you"],
+        "responses":[
+          "bye","is there anything else i can help you with "]
+      },
+
+
+
+
+
+
+    {
+      "tag": "about lr tiwari college",
+      "patterns": [
+        " about college ","tell me something about Shree LR Tiwari Degree College ","tell me something about LR college"
+      ],
+      "responses": ["One of the Best Degree colleges in Mumbai, Shree L. R. Tiwari Degree College of Arts, Commerce & Science in Mira Road was established on 26th June 2018. \nIt got its permission from the Government of Maharashtra vide permission no – Shashan order No. – NGC 2018/100/18 Mashi-4 dated 15th June 2018.\n\nThe College functions under the aegis of University of Mumbai with affiliation No. – AFF/ICD/2018-19/645, AISHE Code: C-60204 and the college code as 1064.\n\nThe college bears the name of Shri Lallan Ramadhar Tiwari,founder and chairman of Rahul Education,\na renowned educationist and social activist who has dedicated his life to ensuring that students in Mumbai’s western suburbs receive an education that fundamentally prepares them for the future."]
+    },
+
+
+
+
+
+    {
+      "tag": "courses",
+      "patterns": [
+        "what are the courses available","which course does the college provide","tell me about the available courses","details about the course","course detail","what courses does the college have"
+      ],
+      "responses": [
+        "The college offers top besides  courses namely, Bachelor of Commerce, Bachelor of Mass Media and Communication, Bachelor in Accounts and Finance, Bachelor in Banking and Insurance, Bachelor of Management Studies, and B.Sc. in Information Technology, B.Sc. in Computer Science, B.Sc. in Hospitality study, B.Sc. in Data Science and B.Sc. in Aviation."
+      ]
+    },
+
+
+
+
+
+    {
+     "tag": "LR Tiwari",
+      "patterns": ["who is LR Tiwari","tell me about LR tiwari","LR tiwari"],
+      "responses": ["Shri L. R. Tiwari\nChairman - Rahul Education"]
+    },
+
+
+
+
+
+    {
+      "tag": "management body",
+      "patterns": ["management team of the SLRTD"," stake holders of slrtdc","team of slrtdc","who manage this college","who built this college","rahul education team","tell me about the owner of the college","college committe","who manages this college","who owns the college"],
+      "responses": ["1:Shri L. R. Tiwari\nChairman - Rahul Education\n2:Smt. K. L. Tiwari\nPresident - Rahul Education\n3:Shri. Rahul L. Tiwari\nSecretary - Rahul Education\n4:Jt. Secretary - Smt. Krishna Tiwari\n(M.Sc., M.Ed., P.G.D.Ed.M., D.D.H.M., D.FS.M) \n5:Mr. Utsav Tiwari\nC.O.O - Rahul Education"]
+    },
+
+
+
+
+
+    {
+      "tag": "ug courses",
+      "patterns": ["undergraduate courses","ug courses provided by lr tiwari","undergraduate courses available","list me the courses available for undergraduate students","i want to know about the courses for undergraduate student","ug course"],
+      "responses": ["\nStream: B.Com.  Stream Code: 22300001  Intake Capacity (First Year): 240\nStream: B.A.F.  Stream Code: 22300002  Intake Capacity (First Year): 120\nStream: B.M.S.  Stream Code: 22300005  Intake Capacity (First Year): 180\nStream: B.B.I.  Stream Code: 22300003  Intake Capacity (First Year): 60\nStream: B.A.M.M.C.  Stream Code: 22300001NA  Intake Capacity (First Year): 60\nStream: B.Sc.I.T.  Stream Code: 42300003  Intake Capacity (First Year): 60\nStream: B.Sc.C.S.  Stream Code: NA  Intake Capacity (First Year): 60\nStream: B.Sc.H.S.  Stream Code: 423000081  Intake Capacity (First Year): 60\nStream: B.Sc. Data Science Stream Code: NA  Intake Capacity (First Year): 60\nStream: B.Sc. Actuarial Science  Stream Code: NA  Intake Capacity (First Year): 60\nStream: B.Sc. Aviation  Stream Code: NA  Intake Capacity (First Year): 60"]
+    },
+
+
+
+
+
+    {
+      "tag": "post graduate courses",
+      "patterns": ["tell me about post graduate courses","post graduate courses available","pg courses available in lr tiwari college","pg courses"],
+      "responses": ["Stream: M.Com In Accountancy Stream Code: NA  Intake Capacity (First Year): 60\nStream: M.Com In Management  Stream Code: NA  Intake Capacity (First Year): 60\nStream: M.A In Education  Stream Code: NA  Intake Capacity (First Year): 60"]
+    },
+
+
+
+
+
+    {
+      "tag": "Eligibility Criteria",
+      "patterns": ["eligibility criteria for admission","what are the eligibility criteria for applying","criteria for admission"],
+      "responses": ["1: A student Passing the H. S. C. Examination conducted by the Maharashtra state board for secondary and higher secondary Education, Mumbai Divisional Board in the six subjects specified below is eligible for admission to the First year of the senior College in Arts/science/ Commerce course.\n2: Any one of the Modern Indian Languages (Marathi/Hindi etc. Or any one of the Modern European (French or German) or any one of the classical languages.\n3: Any four of the optional subjects for Art’s, science and commerce courses as specified by the H. S. C. Board, Pune."]
+    },
+
+
+
+
+
+    {
+      "tag": "application form",
+      "patterns": ["what are the documents needed for filling the application form","documents needed for submitting form application","documents for application form","documents needed for filling the form ","documents needed for application form","documents required"],
+      "responses": [" 1] At the time of admission board or the central board of secondary Education OR the Indian School certificate Examination or anything equivalent examination will be admitted on merit with production of\n 2] Original Mark sheet for H. S. C examination with a photocopy thereof.\n3]   College/school Leaving certificates or NOC\n4]   Provisional/ Final Eligibility Certificate wherever necessary, and\n5] Any other certificate s that are deemed university.\n6] An ex-students of the college who had left the college to do the same or any other Course outside, and now desires to seek admission to the first year course in Art’s/science/commerce after passing the HSC examination from Mumbai Divisional Board, Will be treated as a new / fresh students (I.e. he will not been titled to the benefits of continuation in the college.)\n7] A student who passed the HSC examination in the science stream with minimum 2 of the subjects from the arts/science/Commerce group will be considered for admission to F. Y. B. A/F.Y.B.Com. as per the provision of the Mumbai University Certificate.\n8] The application of an overseas students for admission to the college Will be entertained only if it is forwarded with the recommendation letter of the Indian Diplomatic Mission in his/her country. Such application must be accompanied by\n    a) The final school/college certificates examination,\n    b) A testimonial from the principal of the school/college regarding the character of the applicant, and\n    c) A provisional eligibility certificate issued by the University of Mumbai."]
+    },
+
+
+
+
+    {
+      "tag": "absentee",
+      "patterns": ["what should i do if want to take a leave"," what are the formalities required for taking a leave "," i was unable to attend the lectures "," what should i do if i was absent for a particular or regular lectures","i was absent","i missed my lectures"],
+      "responses": ["1: On medical ground needs to:\na: Submit an application addressed to the Principal seeking grant of leave on medical grounds along with a medical certificate issued by a registered medical practitioner for the period of absence. The application should be submitted to the Principal, within four days of resuming classes.\n2: For Participation and representation of the college in events:\na: Such as Sports/ Cultural Events, should submit an application with evidence of participation and signature of staff-in charge of the activity\n3: For any other reason:\na: Should submit an application stating the reason for absence with supporting documents if any for consideration of condonation of absence."]
+    },
+
+
+
+    {
+      "tag": "",
+      "patterns": [""],
+      "responses": [""]
+    }
+    ]
+  }
